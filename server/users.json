@@ -1,0 +1,78 @@
+[
+  {
+    "email": "goodgame123@gmail.com",
+    "password": "$2a$10$pjJgvxQVGMle.pJG0zc5redlBaX4P.eVwGvYKznE0V/P5yfTKz4Xa"
+  },
+  {
+    "email": "hello3@gmail.com",
+    "password": "$2a$10$kd8Tjw7HtKro6RstNvNvn.ZJxyn8ZaeBMbzPoe1tHZtZmXUfwC4Ha"
+  },
+  {
+    "email": "npm@gmail.com",
+    "password": "$2a$10$P9O3OGWuU4xjPOaP3jswiOc2a24abqMCdQojFe5QO83D6I6O0FGOy"
+  },
+  {
+    "email": "leontinus6@gmail.com",
+    "password": "$2a$10$FI1PIzBdxIgtgrLF04zf2OKahhPuY.XHzJT6jhyR/GF0GaWiWUwvy"
+  },
+  {
+    "email": "goodgame@gmail.com",
+    "password": "$2a$10$mQXU6YOUoeavcSebgapFBun217GeMzfCR5FYpWa4D.U0btcq74CHW"
+  },
+  {
+    "email": "pai@gmail.com",
+    "password": "$2a$10$ejRneq.ljHHug.VlUe1ZIu.qnZvrrd82kq/fpACYlNeIPYQOw7Tuu"
+  },
+  {
+    "email": "michael1985@gmail.com",
+    "password": "$2a$10$ZH2hW5Vq41mWzp9tQnFmO.QhebSWRi3jq1zD5IXtvMYMhECsKonFC"
+  },
+  {
+    "email": "michael@gmail.com",
+    "password": "$2a$10$/WT7RqR3QuddkT4sc26mgePKiuFJT0r12d4Pz/jQgoCjnRETgRVTG"
+  },
+  {
+    "email": "nice@gmail.com",
+    "password": "$2a$10$PXDU0b2sHpKjCxDr7IhOfeO8RRlu9DbdnNLSIzthLQ2nOqXpI5Ovq"
+  },
+  {
+    "email": "kyawp8217@gmail.com",
+    "password": "$2a$10$w13decue5iOjUp2s4NGIeedy1V032D6BkAMMFExltgo76JCC73ZtG"
+  },
+  {
+    "email": "p@gmail.com",
+    "password": "$2a$10$0p89Yr4WhtpJNYMKnJfyheICJY2Deo39ZR5JSkcOCXOH1SmljEdJu"
+  },
+  {
+    "email": "new@gmail.com",
+    "password": "$2a$10$AlgjHvezr4M1TTj1fEUES.oUXdKuSBS4iDsZXQRb47LRDllbmjVmu"
+  },
+  {
+    "email": "leon@gmail.com",
+    "password": "$2a$10$gghsfK1g8Mu.ZDbwT5mYxuWk/nAKaRj3HeLkMD1UTS/DiDGZNBBhG"
+  },
+  {
+    "email": "ptk@gmail.com",
+    "password": "$2a$10$Bi2ash2zCle2UIlfKh1Be.zVAsiZq/Eq5ZqnDpB6zi1uEkbWfqite",
+    "cartItem": [
+      {
+        "name": "Mote Ti",
+        "price": 1000
+      },
+      {
+        "name": "Korean noodle soup",
+        "price": 5500
+      }
+    ]
+  },
+  {
+    "email": "ptk@gmail.com",
+    "password": "$2a$10$Bi2ash2zCle2UIlfKh1Be.zVAsiZq/Eq5ZqnDpB6zi1uEkbWfqite",
+    "cartItem": [
+      {
+        "name": "ဘဲကင်",
+        "price": 9000
+      }
+    ]
+  }
+]

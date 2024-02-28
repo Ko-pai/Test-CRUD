@@ -1,0 +1,168 @@
+[
+  {
+    "email": "npm@gmail.com",
+    "password": "$2a$10$P9O3OGWuU4xjPOaP3jswiOc2a24abqMCdQojFe5QO83D6I6O0FGOy"
+  },
+  {
+    "email": "ptk@gmail.com",
+    "password": "$2a$10$/0ya0O7JGjf07AyCAeh7jOhC2Kx1GtBSBPZR3QDOhTGYqoMv4Y2su",
+    "cartItem": [
+      {
+        "name": "Chicken",
+        "price": 3500
+      },
+      {
+        "name": "Donuts",
+        "price": 1200
+      },
+      {
+        "name": "ဘဲကင်",
+        "price": 9000
+      },
+      {
+        "name": "Pizza",
+        "price": 9000
+      }
+    ]
+  },
+  {
+    "email": "nicenice@gmail.com",
+    "password": "$2a$10$pZwGeZ3O7EnKlbrD2LygNO4D.HBATAj5/DpZIKH.C/tqj/Ig.aeSW",
+    "cartItem": [
+      {
+        "name": "Mote Ti",
+        "price": 1000
+      },
+      {
+        "name": "Pizza",
+        "price": 9000
+      }
+    ]
+  },
+  {
+    "email": "pai@gmail.com",
+    "password": "$2a$10$kMpmkt6YvTuPBJVwUXZEfO0saLpS4G16r6BJVTfiv5LTPPBQsDDVS",
+    "cartItem": [
+      {
+        "name": "Pizza",
+        "price": 9000
+      },
+      {
+        "name": "Coffee Mix",
+        "price": 250
+      },
+      {
+        "name": "ဘဲကင်",
+        "price": 9000
+      },
+      {
+        "name": "မုန့်တီ",
+        "price": 2000
+      },
+      {
+        "name": "Burger",
+        "price": 3200
+      },
+      {
+        "name": "ထမနဲ",
+        "price": 2100
+      },
+      {
+        "name": "Waffle",
+        "price": 500
+      },
+      {
+        "name": "Shan Khout Swal",
+        "price": "2300"
+      },
+      {
+        "name": "အုန်းနို့ခေါက်ဆွဲ",
+        "price": 2000
+      },
+      {
+        "name": "Mote Ti",
+        "price": 1000
+      },
+      {
+        "name": "Chicken",
+        "price": 3500
+      },
+      {
+        "name": "Mala Pork Barbecue",
+        "price": 2530
+      },
+      {
+        "name": "ထမင်းကြော်(ဝက်သား)",
+        "price": 5000
+      },
+      {
+        "name": "Donuts",
+        "price": 1200
+      },
+      {
+        "name": "Burger",
+        "price": 3200
+      },
+      {
+        "name": "Burger",
+        "price": 3200
+      },
+      {
+        "name": "Burger",
+        "price": 3200
+      },
+      {
+        "name": "Mote Hin Khar",
+        "price": "2500"
+      },
+      {
+        "name": "Boiled egg",
+        "price": 400
+      },
+      {
+        "name": "Mote Mote",
+        "price": 8563
+      }
+    ]
+  },
+  {
+    "email": "goodgame@gmail.com",
+    "password": "$2a$10$rjWwP3/aYtFXRJlv4.JhceNgu23rWOfi.loZjYaPJuOIFxXovLQ1m",
+    "cartItem": [
+      {
+        "name": "ထမနဲ",
+        "price": 2100
+      },
+      {
+        "name": "Pizza",
+        "price": 9000
+      },
+      {
+        "name": "မုန့်သိုင်းခြုံ",
+        "price": 500
+      },
+      {
+        "name": "Shan Khout Swal",
+        "price": "2300"
+      }
+    ]
+  },
+  {
+    "email": "leon@gmail.com",
+    "password": "$2a$10$HpRxxM2OvHC/S/O8wkoY7.HdRA30T77Ti.m/RIIMfSKgdCy/hcitS",
+    "cartItem": [
+      {
+        "name": "Shan Khout Swal",
+        "price": "2300"
+      },
+      {
+        "name": "Burger",
+        "price": 3200
+      },
+      {
+        "name": "ဘဲကင်",
+        "price": 9000
+      }
+    ]
+  }
+]

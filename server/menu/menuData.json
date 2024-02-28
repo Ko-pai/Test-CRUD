@@ -1,0 +1,94 @@
+[
+  {
+    "name": "Mote Hin Khar",
+    "price": "2500"
+  },
+  {
+    "name": "Shan Khout Swal",
+    "price": "2300"
+  },
+  {
+    "name": "Mote Ti",
+    "price": 1000
+  },
+  {
+    "name": "Pizza",
+    "price": 9000
+  },
+  {
+    "name": "Burger",
+    "price": 3200
+  },
+  {
+    "name": "Donuts",
+    "price": 1200
+  },
+  {
+    "name": "Mote Mote",
+    "price": 8563
+  },
+  {
+    "name": "Chicken",
+    "price": 3500
+  },
+  {
+    "name": "Mala Pork Barbecue",
+    "price": 2530
+  },
+  {
+    "name": "ဘဲကင်",
+    "price": 9000
+  },
+  {
+    "name": "ထမနဲ",
+    "price": 2100
+  },
+  {
+    "name": "ထမင်းကြော်(ဝက်သား)",
+    "price": 5000
+  },
+  {
+    "name": "ခေါက်မုန့်",
+    "price": 500
+  },
+  {
+    "name": "မုန့်တီ",
+    "price": 2000
+  },
+  {
+    "name": "Korean noodle soup",
+    "price": 5500
+  },
+  {
+    "name": "Spicy pork leg soup",
+    "price": 4500
+  },
+  {
+    "name": "မုန့်သိုင်းခြုံ",
+    "price": 500
+  },
+  {
+    "name": "Coffee Mix",
+    "price": 250
+  },
+  {
+    "name": "Boiled egg",
+    "price": 400
+  },
+  {
+    "name": "အုန်းနို့ခေါက်ဆွဲ",
+    "price": 2000
+  },
+  {
+    "name": "Waffle",
+    "price": 500
+  },
+  {
+    "name": "Oishi Pillow",
+    "price": 500
+  },
+  {
+    "name": "Oishi Pizza",
+    "price": 550
+  }
+]
